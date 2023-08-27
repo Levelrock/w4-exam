@@ -1,0 +1,20 @@
+/* Main content */
+#product-details {
+    text-align: center;
+    padding: 20px;
+}
+
+#product-details h1 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+#product-details img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+#product-details p {
+    font-size: 18px;
+}
